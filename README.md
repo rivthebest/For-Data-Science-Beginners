@@ -98,5 +98,8 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)
 * [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)
 
+**Chart preparation in R**
+* [stock chart preparation in R](http://www.r-chart.com/2010/06/stock-analysis-using-r.html)
+
 
 * [MIT OCW Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
